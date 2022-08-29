@@ -1,0 +1,70 @@
+.cardWrapper{
+    /* min-width: 200px ; */
+    width: 20% !important;
+    height:auto;
+    padding: 10px 20px 10px 20px;
+    border: 1px solid rgb(90, 90, 90);
+    /* margin: 5px; */
+    /* max-width: 345px; */
+}
+/* maxWidth: 345, width:'70%', */
+.fvrtBtn{
+    background-color: #002f34;
+    color: white;
+    padding: 10px 50px;
+    font-size: 15px;
+    border: 1px solid #002f34;
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+.fvrtBtn:hover{
+background-color: rgb(189, 178, 178);
+color: #002f34;
+border: 1px solid rgb(189, 178, 178) ;
+border-radius: 5px;
+}
+.textCard{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.disableBtn{
+    background-color: rgb(189, 178, 178);
+    color: #002f34;
+    padding: 10px 50px;
+    font-size: 15px;
+    border: 1px solid rgb(189, 178, 178);
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.unfvrtBtn{
+    background-color: rgb(189, 178, 178);
+    color: #002f34;
+    padding: 10px 50px;
+    font-size: 15px;
+    border: 1px solid rgb(189, 178, 178);
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+.unfvrtBtn:hover{
+background-color: rgb(189, 178, 178);
+color: #002f34;
+border: 1px solid rgb(189, 178, 178) ;
+border-radius: 5px;
+}
+/* @media screen and (min-width:1150px) {
+    .fvrtBtn{
+        font-size: 10px;
+    }
+} */

@@ -1,0 +1,16 @@
+.sellHeading{
+    text-align: center;
+    color: #002f34;
+    font-size: 40px;
+    text-decoration: underline;
+    line-height: normal;
+}
+.sellSubHeading{
+    text-align: center;
+    line-height: normal;
+}
+.postBtn{
+    color: white;
+    background-color:#002f34;
+
+}

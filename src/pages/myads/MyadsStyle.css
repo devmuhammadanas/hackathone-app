@@ -1,0 +1,41 @@
+.cardWrapper {
+  max-width: 345px;
+  width: 70%;
+  height: auto;
+  padding: 10px 20px 10px 20px;
+  border: 1px solid rgb(90, 90, 90);
+  margin: 5px;
+}
+/* maxWidth: 345, width:'70%', */
+.editBtn {
+  background-color: #002f34;
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid #002f34;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.editBtn:hover {
+  background-color: rgb(196, 194, 194);
+  color: #002f34;
+  border: 1px solid rgb(196, 194, 194);
+  border-radius: 5px;
+}
+.dltBtn {
+  background-color: tomato;
+  color: white;
+  border: 1px solid tomato;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+.dltBtn:hover {
+  background-color: rgb(196, 194, 194);
+  color: #002f34;
+  border: 1px solid rgb(196, 194, 194);
+}
+.textEllips{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

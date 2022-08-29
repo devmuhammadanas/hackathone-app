@@ -1,0 +1,45 @@
+.detailImg{
+width: 95%;
+height: 90vh;
+padding: 10px;
+padding-left: 20px;
+}
+.detailImgDiv{
+    border: 1px solid rgb(209, 204, 204);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.detailPrice{
+   padding: 10px;
+   line-height: 0%;
+}
+.detailText{
+    font-size: 14px;
+   padding: 10px;
+    
+}
+.detailFvrtBtn{
+   margin-left: 80px;
+   padding: 20px;
+}
+
+.fvrtBtn{
+    background-color: #002f34;
+    color: white;
+    padding: 10px 50px;
+    font-size: 15px;
+    border: 1px solid #002f34;
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fvrtBtn:hover{
+background-color: rgb(189, 178, 178);
+color: #002f34;
+border: 1px solid rgb(189, 178, 178) ;
+border-radius: 5px;
+}

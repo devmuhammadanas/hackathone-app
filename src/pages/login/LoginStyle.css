@@ -1,0 +1,15 @@
+.loginCard{
+  border: 1px solid grey;
+  width: 800px;
+  height: auto;
+  margin-top: 150px;
+}
+
+.feild{
+  width: 600px;
+  padding: 20px;
+}
+.olxLogin{
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,19 @@
+.unfvrtBtn{
+    background-color: rgb(189, 178, 178);
+    color: #002f34;
+    padding: 10px 50px;
+    font-size: 15px;
+    border: 1px solid rgb(189, 178, 178);
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+.unfvrtBtn:hover{
+background-color:  #002f34;
+color: white;
+border: 1px solid #002f34 ;
+border-radius: 5px;
+}
